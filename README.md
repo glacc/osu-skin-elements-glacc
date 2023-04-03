@@ -7,3 +7,5 @@ Resources used:
 > 
 > https://github.com/ppy/osu-web/tree/master/resources/fonts
 >
+
+Std & taiko element inspiration: Incadescent by Goon - https://osu.ppy.sh/community/forums/topics/537156
